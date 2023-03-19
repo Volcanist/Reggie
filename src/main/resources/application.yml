@@ -61,4 +61,4 @@ mybatis-plus:
       id-type: ASSIGN_ID
 
 reggie:
-  path: C:\Users\volcano\Desktop\reggie\fileTest\
+  path: /usr/local/img/
